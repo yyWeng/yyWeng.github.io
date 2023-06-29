@@ -13,15 +13,15 @@ redirect_from:
 
 Research Experience 
 ======
-1. UCSD UJIMA Security & Privacy Lab
+1. 	**UCSD UJIMA Security & Privacy Lab**\
 (June 2023 - present) Working on projects of designing and implementing an AI chatbot under the supervision of Dr.Munyaka.
 
-2. NUS-HCI Lab
+2. 	**NUS-HCI Lab**\
 (July 2023)  Working on projects focused on Human modeling using Reinforcement Learning. 
 
 Internship
 ======
-1. Software Engineer at Neuro Leap Crop
+1. 	**Software Engineer at Neuro Leap Crop**\
 (Jan 2023 - present) Develop the front end interface and functionality for Neuroleap's IoT software solution.
 
 Life
