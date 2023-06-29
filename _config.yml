@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yiyu Weng"
   avatar           : "profile.png"
-  bio              : "I am a thrid year student at UC San Diego majoring in math-computer science and minoring in Psychology."
+  bio              :  "Undergraduate student at UC San Diego"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "yweng@ucsd.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "yyWeng"
