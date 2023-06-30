@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋  Hi, I am currently a third-year student at the prestigious University of California, San Diego, where I am pursuing a major in Mathematics-Computer Science and a minor in Psychology. My academic journey has been an exciting exploration of the fascinating relationship between technology and psychology.Specifically, my passion lies in the field of Human-Computer Interaction (HCI) and User Experience.
+👋  Hi, I am currently a third-year student at University of California, San Diego, majoring in Mathematics-Computer Science and minoring in Psychology. My academic journey has been an exciting exploration of the fascinating relationship between technology and psychology. Specifically, my passion lies in the field of Human-Computer Interaction (HCI) and User Experience.
                
 
 Research Experience 
@@ -16,7 +16,7 @@ Research Experience
 1. 	**UCSD UJIMA Security & Privacy Lab**\
 (June 2023 - present) Working on projects of designing and implementing an AI chatbot under the supervision of Dr.Munyaka.
 
-2. 	**NUS-HCI Lab**\
+1. 	**NUS-HCI Lab**\
 (July 2023)  Working on projects focused on Human modeling using Reinforcement Learning. 
 
 Internship
